@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+   <img src="./logo.svg" alt="Move It" width="300"/>
 </p>
 
 > :rocket: Move It is a project to help people to make more exercises. Next Level Week #04 #NLW @Rocketseat
